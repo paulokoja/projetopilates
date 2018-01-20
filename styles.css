@@ -1,0 +1,31 @@
+body{
+	margin:0;
+}
+
+h1{
+	font-size: 45px;
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 20px;
+	text-transform: uppercase;
+	margin: 20px;
+}
+
+div{
+	margin: 20px;	
+	text-align: justify;
+}
+
+h2{
+	font-size: 30px;
+}
+
+ul, p{
+	font-size: 25px;
+	line-height: 30px;
+}
+
+img{
+	width: 100%;
+}
+
